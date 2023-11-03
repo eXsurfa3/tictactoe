@@ -1,1 +1,4 @@
 "practicing git - 2023.11.03" 
+
+"adding newlines - hello, today is 2023.11.03"
+Today is sunny, no rain. 
